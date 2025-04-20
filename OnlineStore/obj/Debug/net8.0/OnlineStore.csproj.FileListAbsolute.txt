@@ -1,0 +1,7 @@
+/project/sandbox/user-workspace/OnlineStore/obj/Debug/net8.0/OnlineStore.GeneratedMSBuildEditorConfig.editorconfig
+/project/sandbox/user-workspace/OnlineStore/obj/Debug/net8.0/OnlineStore.AssemblyInfoInputs.cache
+/project/sandbox/user-workspace/OnlineStore/obj/Debug/net8.0/OnlineStore.AssemblyInfo.cs
+/project/sandbox/user-workspace/OnlineStore/obj/Debug/net8.0/OnlineStore.csproj.CoreCompileInputs.cache
+/project/sandbox/user-workspace/OnlineStore/obj/Debug/net8.0/OnlineStore.MvcApplicationPartsAssemblyInfo.cache
+/project/sandbox/user-workspace/OnlineStore/obj/Debug/net8.0/OnlineStore.RazorAssemblyInfo.cache
+/project/sandbox/user-workspace/OnlineStore/obj/Debug/net8.0/OnlineStore.RazorAssemblyInfo.cs
