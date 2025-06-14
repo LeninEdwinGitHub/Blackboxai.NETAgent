@@ -1,9 +1,9 @@
 # Use the official .NET SDK image for build
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
-WORKDIR /src
-COPY ["CopilotWs/CarRentalWebApp/CarRentalWebApp.csproj", "./"]
+WORKDIR /src/CopilotWs/CarRentalWebApp
+COPY CopilotWs/CarRentalWebApp/CarRentalWebApp.csproj ./
 RUN dotnet restore "CarRentalWebApp.csproj"
-COPY CopilotWs/CarRentalWebApp/ .
+COPY CopilotWs/CarRentalWebApp/ ./
 RUN dotnet publish "CarRentalWebApp.csproj" -c Release -o /app/publish
 
 # Use the official ASP.NET runtime image for the app
