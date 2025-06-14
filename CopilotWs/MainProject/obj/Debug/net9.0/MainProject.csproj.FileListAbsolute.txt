@@ -1,0 +1,12 @@
+/Users/leninedwin/Documents/GitHub/blackboxai-1745161792846/CopilotWs/MainProject/bin/Debug/net9.0/MainProject.deps.json
+/Users/leninedwin/Documents/GitHub/blackboxai-1745161792846/CopilotWs/MainProject/bin/Debug/net9.0/MainProject.dll
+/Users/leninedwin/Documents/GitHub/blackboxai-1745161792846/CopilotWs/MainProject/bin/Debug/net9.0/MainProject.pdb
+/Users/leninedwin/Documents/GitHub/blackboxai-1745161792846/CopilotWs/MainProject/obj/Debug/net9.0/MainProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leninedwin/Documents/GitHub/blackboxai-1745161792846/CopilotWs/MainProject/obj/Debug/net9.0/MainProject.AssemblyInfoInputs.cache
+/Users/leninedwin/Documents/GitHub/blackboxai-1745161792846/CopilotWs/MainProject/obj/Debug/net9.0/MainProject.AssemblyInfo.cs
+/Users/leninedwin/Documents/GitHub/blackboxai-1745161792846/CopilotWs/MainProject/obj/Debug/net9.0/MainProject.csproj.CoreCompileInputs.cache
+/Users/leninedwin/Documents/GitHub/blackboxai-1745161792846/CopilotWs/MainProject/obj/Debug/net9.0/MainProject.sourcelink.json
+/Users/leninedwin/Documents/GitHub/blackboxai-1745161792846/CopilotWs/MainProject/obj/Debug/net9.0/MainProject.dll
+/Users/leninedwin/Documents/GitHub/blackboxai-1745161792846/CopilotWs/MainProject/obj/Debug/net9.0/refint/MainProject.dll
+/Users/leninedwin/Documents/GitHub/blackboxai-1745161792846/CopilotWs/MainProject/obj/Debug/net9.0/MainProject.pdb
+/Users/leninedwin/Documents/GitHub/blackboxai-1745161792846/CopilotWs/MainProject/obj/Debug/net9.0/ref/MainProject.dll
