@@ -1,0 +1,45 @@
+/* Custom styles to enhance the look and feel of the CarRentalWebApp */
+body {
+    background: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+    min-height: 100vh;
+    font-family: 'Segoe UI', 'Roboto', Arial, sans-serif;
+}
+
+.navbar {
+    background: #343a40;
+    border-radius: 0 0 1rem 1rem;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.navbar-brand, .nav-link, .navbar-nav .nav-link.active {
+    color: #fff !important;
+    font-weight: 600;
+}
+
+.card {
+    border-radius: 1rem;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+    margin-bottom: 2rem;
+}
+
+.btn-primary {
+    background: linear-gradient(90deg, #f6d365 0%, #fda085 100%);
+    border: none;
+    color: #fff;
+    font-weight: 600;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    transition: background 0.3s;
+}
+
+.btn-primary:hover {
+    background: linear-gradient(90deg, #fda085 0%, #f6d365 100%);
+}
+
+.footer {
+    background: #343a40;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+    border-radius: 1rem 1rem 0 0;
+    margin-top: 2rem;
+}

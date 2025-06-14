@@ -1,0 +1,42 @@
+@page
+@model GalleryModel
+@{
+    ViewData["Title"] = "Car Gallery";
+}
+<div class="container py-5">
+    <div class="row mb-4">
+        <div class="col text-center">
+            <h2 class="display-5">Car Gallery</h2>
+            <p class="lead">Explore our fleet of premium cars available for rent.</p>
+        </div>
+    </div>
+    <div class="row g-4">
+        <div class="col-md-4">
+            <div class="card h-100">
+                <img src="https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?auto=format&fit=crop&w=600&q=80" class="card-img-top" alt="Sedan">
+                <div class="card-body">
+                    <h5 class="card-title">Luxury Sedan</h5>
+                    <p class="card-text">Comfortable and stylish, perfect for city rides.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card h-100">
+                <img src="https://images.unsplash.com/photo-1511918984145-48de785d4c4e?auto=format&fit=crop&w=600&q=80" class="card-img-top" alt="SUV">
+                <div class="card-body">
+                    <h5 class="card-title">Spacious SUV</h5>
+                    <p class="card-text">Ideal for family trips and off-road adventures.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card h-100">
+                <img src="https://images.unsplash.com/photo-1461632830798-3adb3034e4c8?auto=format&fit=crop&w=600&q=80" class="card-img-top" alt="Convertible">
+                <div class="card-body">
+                    <h5 class="card-title">Convertible</h5>
+                    <p class="card-text">Experience the thrill of open-top driving.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

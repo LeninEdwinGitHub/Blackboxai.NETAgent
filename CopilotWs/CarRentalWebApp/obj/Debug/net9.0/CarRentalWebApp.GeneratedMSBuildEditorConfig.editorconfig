@@ -20,8 +20,16 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
+[/Users/leninedwin/Documents/GitHub/blackboxai-1745161792846/CopilotWs/CarRentalWebApp/Pages/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/leninedwin/Documents/GitHub/blackboxai-1745161792846/CopilotWs/CarRentalWebApp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/leninedwin/Documents/GitHub/blackboxai-1745161792846/CopilotWs/CarRentalWebApp/Pages/Gallery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvR2FsbGVyeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/leninedwin/Documents/GitHub/blackboxai-1745161792846/CopilotWs/CarRentalWebApp/Pages/Index.cshtml]

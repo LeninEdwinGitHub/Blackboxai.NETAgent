@@ -99,3 +99,4 @@
 /Users/leninedwin/Documents/GitHub/blackboxai-1745161792846/CopilotWs/CarRentalWebApp/obj/Debug/net9.0/CarRentalWebApp.pdb
 /Users/leninedwin/Documents/GitHub/blackboxai-1745161792846/CopilotWs/CarRentalWebApp/obj/Debug/net9.0/CarRentalWebApp.genruntimeconfig.cache
 /Users/leninedwin/Documents/GitHub/blackboxai-1745161792846/CopilotWs/CarRentalWebApp/obj/Debug/net9.0/ref/CarRentalWebApp.dll
+/Users/leninedwin/Documents/GitHub/blackboxai-1745161792846/CopilotWs/CarRentalWebApp/obj/Debug/net9.0/compressed/jkekrdii18-bfvkki308i.gz
