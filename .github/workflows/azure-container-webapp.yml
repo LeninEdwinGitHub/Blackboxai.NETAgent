@@ -56,10 +56,10 @@ jobs:
           pwd
           ls -l
 
-      - name: Build and push Docker image
+      - name: Build and push Docker image (linux/amd64)
         run: |
-          docker build -f ./Dockerfile -t ${{ secrets.REGISTRY_LOGIN_SERVER }}/car-rental-webapp:${{ github.sha }} .
-          docker push ${{ secrets.REGISTRY_LOGIN_SERVER }}/car-rental-webapp:${{ github.sha }}
+          docker buildx create --use || true
+          docker buildx build --platform linux/amd64 -f ./Dockerfile -t ${{ secrets.REGISTRY_LOGIN_SERVER }}/car-rental-webapp:${{ github.sha }} --push .
 
   deploy:
     runs-on: ubuntu-latest
