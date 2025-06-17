@@ -18,6 +18,13 @@
                     <i class="fas fa-shopping-cart"></i> Cart
                 </a>
             </nav>
+            <form id="selectLanguage" method="post" asp-controller="Culture" asp-action="SetCulture" class="inline-block ml-4">
+                <select name="culture" onchange="this.form.submit()" class="border rounded px-2 py-1 text-sm">
+                    <option value="en" selected>English</option>
+                    <option value="es">Español</option>
+                </select>
+                <input type="hidden" name="returnUrl" value="@Context.Request.Path" />
+            </form>
         </div>
     </header>
     <main class="container mx-auto px-4 py-6">

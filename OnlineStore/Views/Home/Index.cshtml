@@ -1,6 +1,8 @@
 ﻿@model IEnumerable<OnlineStore.Models.Product>
+@using Microsoft.AspNetCore.Mvc.Localization
+@inject IViewLocalizer Localizer
 
-<h1 class="text-3xl font-bold mb-6">Products</h1>
+<h1 class="text-3xl font-bold mb-6">@Localizer["Welcome"]</h1>
 
 <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
     @foreach (var product in Model)

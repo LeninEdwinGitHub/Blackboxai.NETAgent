@@ -32,6 +32,13 @@
                             <a class="nav-link" asp-area="" asp-page="/Gallery">Gallery</a>
                         </li>
                     </ul>
+                    <form id="selectLanguage" method="post" asp-controller="Culture" asp-action="SetCulture" class="ms-3">
+                        <select name="culture" onchange="this.form.submit()" class="form-select form-select-sm d-inline w-auto">
+                            <option value="en" selected>English</option>
+                            <option value="es">Español</option>
+                        </select>
+                        <input type="hidden" name="returnUrl" value="@Context.Request.Path" />
+                    </form>
                 </div>
             </div>
         </nav>
